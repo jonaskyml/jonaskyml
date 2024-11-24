@@ -3,13 +3,16 @@
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=kali,git,github,cs,unity,visualstudio,tailwind,css,html,vscode,obsidian,md,ableton)](https://skillicons.dev)
 
+### Projects
+#### CzechYourTech
+[CzechYourTech Website](https://czechyourtech.cz/)
+[CzechYourTech Repository](https://jonaskyml/czechyourtech/)
+
+
+
 ### Other Media
 #### TryHackMe
-
 <img src="https://tryhackme-badges.s3.amazonaws.com/spskakymjon.png" alt="Your Image Badge" />
-
-
-[CzechYourTech Website](https://czechyourtech.cz/)
 
 
 
