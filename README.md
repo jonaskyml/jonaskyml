@@ -18,10 +18,8 @@
 
 
 #### Monkeytype ([Profile](https://monkeytype.com/profile/scorpixter))
-![10 Words](https://img.shields.io/badge/10%20Words-187WPM-F5C518?colorA=2B2B2B?style=flat)
-![60 Seconds](http://img.shields.io/badge/60%20Seconds-108WPM-F5C518?colorA=2B2B2B?style=flat)
-
-![Badge](https://img.shields.io/badge/Badge-Plastic-blue?style=flat)
+![Badge](https://img.shields.io/badge/⚡%2010%20Words-187_WPM-F5C518?colorA=2B2B2B?style=flat-square)
+![Badge](https://img.shields.io/badge/⚡%2060%20Seconds-108_WPM-F5C518?colorA=2B2B2B?style=flat-square)
 
 
 
