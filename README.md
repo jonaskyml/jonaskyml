@@ -20,8 +20,8 @@
 #### Monkeytype
 <a href="https://monkeytype.com/profile/scorpixter" target="_blank">
       Monkeytype Profile
-</a>
-- ![10 Words](https://img.shields.io/badge/any_text-you_like-blue)
+</a><br>
+- ![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%205%20mins-blue)
 
 
 
