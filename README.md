@@ -19,7 +19,7 @@
 
 #### Monkeytype
 
-![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%205%20mins-blue)
+![10 Words](http://img.shields.io/badge/10%20Words-328%20hrs%205%20mins-blue)
 
 
 
