@@ -21,7 +21,7 @@
 <a href="https://monkeytype.com/profile/scorpixter" target="_blank">
       Monkeytype Profile
 </a><br>
-- ![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%205%20mins-blue)
 
 
 
