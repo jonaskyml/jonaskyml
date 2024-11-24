@@ -9,7 +9,7 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/spskakymjon.png" alt="Your Image Badge" />
 
 
-![CzechYourTech Website](https://czechyourtech.cz/)
+[CzechYourTech Website](https://czechyourtech.cz/)
 
 
 
