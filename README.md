@@ -6,7 +6,7 @@
 ### Other Media
 #### TryHackMe
 
-<iframe></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/spskakymjon.png" alt="Your Image Badge" />
 
 
 
