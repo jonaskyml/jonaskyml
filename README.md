@@ -1,5 +1,12 @@
+## Welcome to jonaskyml!
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3503849" style='border:none;'></iframe>
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=kali,git,github,cs,unity,visualstudio,tailwind,css,html,vscode,obsidian,md,ableton)](https://skillicons.dev)
+
+### Other Media
+#### TryHackMe
+
+<div></div>
 
 
 
