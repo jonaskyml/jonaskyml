@@ -5,8 +5,8 @@
 
 ### Projects
 #### CzechYourTech
-[CzechYourTech Website](https://czechyourtech.cz/)<br>
-[CzechYourTech Repository](https://jonaskyml/czechyourtech/)
+- [CzechYourTech Website](https://czechyourtech.cz/)
+- [CzechYourTech Repository](https://jonaskyml/czechyourtech/)
 
 
 
