@@ -4,10 +4,9 @@
 [![My Skills](https://skillicons.dev/icons?i=kali,git,github,cs,unity,visualstudio,tailwind,css,html,vscode,obsidian,md,ableton)](https://skillicons.dev)
 
 ### Other Media
-#### Monkeytype
-<a href="https://monkeytype.com/profile/peepyk" target="_blank">
-        <img src="/img/monkeytype.png" alt="Monkeytype Stats"/>
-</a>
+#### TryHackMe
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3503849" style='border:none;'></iframe>
+
 
 
 
