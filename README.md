@@ -3,6 +3,11 @@
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=kali,git,github,cs,unity,visualstudio,tailwind,css,html,vscode,obsidian,md,ableton)](https://skillicons.dev)
 
+### Other Media
+#### Monkeytype
+<a href="https://monkeytype.com/profile/peepyk" target="_blank">
+        <img src="/img/monkeytype.png" alt="Monkeytype Stats"/>
+</a>
 
 
 
