@@ -17,11 +17,13 @@
 </a>
 
 
-#### Monkeytype
-* [Monkeytype Profile](https://monkeytype.com/profile/scorpixter)
+#### Monkeytype ([Profile](https://monkeytype.com/profile/scorpixter))
+![10 Words](https://img.shields.io/badge/10%20Words-187WPM-F5C518?colorA=2B2B2B)
+![60 Seconds](http://img.shields.io/badge/60%20Seconds-108WPM-F5C518?colorA=2B2B2B)
 
-![10 Words](http://img.shields.io/badge/10%20Words-187WPM-gray)
-![60 Seconds](http://img.shields.io/badge/60%20Seconds-108WPM-gray)
+
+
+
 
 
 
