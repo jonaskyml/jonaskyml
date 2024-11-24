@@ -15,7 +15,7 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/spskakymjon.png" alt="Your Image Badge" />
 
 #### Monkeytype
-<a href="https://monkeytype.com/profile/scorpixter">
+<a href="https://monkeytype.com/profile/scorpixter" target="_blank">
       Monkeytype Profile
 </a>
 
