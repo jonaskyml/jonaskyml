@@ -18,6 +18,7 @@
 
 
 #### Monkeytype
+* [Monkeytype Profile](https://monkeytype.com/profile/scorpixter)
 
 ![10 Words](http://img.shields.io/badge/10%20Words-187WPM-blue)
 
