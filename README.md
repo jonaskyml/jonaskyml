@@ -9,7 +9,7 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/spskakymjon.png" alt="Your Image Badge" />
 
 
-![Hello](https://youtube.com/@scorpixter)
+[https://youtube.com/@scorpixter](https://www.youtube.com/@scorpixter))
 
 
 
