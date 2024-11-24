@@ -20,8 +20,8 @@
 #### Monkeytype
 * [Monkeytype Profile](https://monkeytype.com/profile/scorpixter)
 
-![10 Words](http://img.shields.io/badge/10%20Words-187WPM-black)
-![60 Seconds](http://img.shields.io/badge/60%20Seconds-108WPM-black)
+![10 Words](http://img.shields.io/badge/10%20Words-187WPM-gray)
+![60 Seconds](http://img.shields.io/badge/60%20Seconds-108WPM-gray)
 
 
 
