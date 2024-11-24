@@ -3,14 +3,6 @@
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=kali,git,github,cs,unity,visualstudio,tailwind,css,html,vscode,obsidian,md,ableton)](https://skillicons.dev)
 
-### Projects
-#### CzechYourTech
-- [CzechYourTech Website](https://czechyourtech.cz/)
-- [CzechYourTech Repository](https://github.com/jonaskyml/CzechYourTech)
-
-
-
-### Other Media
 #### TryHackMe
 <a href="https://tryhackme.com/r/p/spskakymjon" target="_blank">
       <img src="https://tryhackme-badges.s3.amazonaws.com/spskakymjon.png" alt="Your Image Badge" />
@@ -21,9 +13,14 @@
 ![Badge](https://img.shields.io/badge/⚡%2010%20Words-187_WPM-F5C518?colorA=2B2B2B?style=flat-square)
 ![Badge](https://img.shields.io/badge/⚡%2060%20Seconds-108_WPM-F5C518?colorA=2B2B2B?style=flat-square)
 
+### Projects
+#### CzechYourTech
+- [CzechYourTech Website](https://czechyourtech.cz/)
+- [CzechYourTech Repository](https://github.com/jonaskyml/CzechYourTech)
 
-
-
+#### Scorpixter
+- [Spotify](https://open.spotify.com/artist/1LwTpNAWLUHLr1e1zg7puh?si=OVyFLfnLQruXK97LuBTR8w)
+- [YouTube](http://youtube.com/@scorpixter)
 
 
 
