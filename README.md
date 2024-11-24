@@ -16,7 +16,7 @@
 
 #### Monkeytype
 <a href="https://monkeytype.com/profile/scorpixter">
-      <img src="https://raw.githubusercontent.com/monkeytype-hub/monkeytype-readme/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
+      Monkeytype Profile
 </a>
 
 
