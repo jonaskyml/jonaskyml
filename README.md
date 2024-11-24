@@ -21,6 +21,7 @@
 <a href="https://monkeytype.com/profile/scorpixter" target="_blank">
       Monkeytype Profile
 </a>
+- https://img.shields.io/badge/any_text-you_like-blue
 
 
 
