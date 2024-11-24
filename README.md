@@ -12,7 +12,10 @@
 
 ### Other Media
 #### TryHackMe
-<img src="https://tryhackme-badges.s3.amazonaws.com/spskakymjon.png" alt="Your Image Badge" />
+<a href="https://tryhackme.com/r/p/spskakymjon" target="_blank">
+      <img src="https://tryhackme-badges.s3.amazonaws.com/spskakymjon.png" alt="Your Image Badge" />
+</a>
+
 
 #### Monkeytype
 <a href="https://monkeytype.com/profile/scorpixter" target="_blank">
