@@ -4,9 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=kali,git,github,cs,unity,visualstudio,tailwind,css,html,vscode,obsidian,md,ableton)](https://skillicons.dev)
 
 #### TryHackMe
-<a href="https://tryhackme.com/r/p/spskakymjon" target="_blank">
-      <img src="https://tryhackme-badges.s3.amazonaws.com/spskakymjon.png" alt="Your Image Badge" />
-</a>
+<img src="https://tryhackme-badges.s3.amazonaws.com/spskakymjon.png" alt="Your Image Badge" />
 
 
 #### Monkeytype ([Profile](https://monkeytype.com/profile/scorpixter))
@@ -33,3 +31,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Last Update: 2024-11-30
