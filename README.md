@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=kali,git,github,cs,unity,visualstudio,tailwind,css,html,vscode,obsidian,md,vim,ableton)](https://skillicons.dev)
 
 #### TryHackMe
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/spskakymjon.png" alt="Your Image Badge" />
 
 
 #### Monkeytype ([Profile](https://monkeytype.com/profile/scorpixter))
