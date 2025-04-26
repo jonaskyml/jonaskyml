@@ -8,7 +8,7 @@
 
 
 #### Monkeytype ([Profile](https://monkeytype.com/profile/scorpixter))
-![Badge](https://img.shields.io/badge/⚡%2010%20Words-188_WPM-F5C518?colorA=2B2B2B?style=flat-square)
+![Badge](https://img.shields.io/badge/⚡%2010%20Words-196_WPM-F5C518?colorA=2B2B2B?style=flat-square)
 ![Badge](https://img.shields.io/badge/⚡%2060%20Seconds-117_WPM-F5C518?colorA=2B2B2B?style=flat-square)
 
 
