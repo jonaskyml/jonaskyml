@@ -1,7 +1,7 @@
 # Welcome to jonaskyml!
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=kali,arch,mint,git,github,cs,codium,unity,visualstudio,tailwind,css,html,vscode,obsidian,md,vim,ableton)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,kali,arch,redhat,mint,git,github,vscodium,visualstudio,vscode,obsidian,unity,ableton,cs,tailwind,css,html,md,vim)](https://skillicons.dev)
 
 #### TryHackMe
 <img src="https://tryhackme-badges.s3.amazonaws.com/spskakymjon.png" alt="Your Image Badge" />
