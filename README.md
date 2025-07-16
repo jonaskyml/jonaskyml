@@ -9,7 +9,7 @@
 
 #### Monkeytype ([Profile](https://monkeytype.com/profile/scorpixter))
 ![Badge](https://img.shields.io/badge/⚡%2010%20Words-202_WPM-F5C518?colorA=2B2B2B?style=flat-square)
-![Badge](https://img.shields.io/badge/⚡%2060%20Seconds-117_WPM-F5C518?colorA=2B2B2B?style=flat-square)
+![Badge](https://img.shields.io/badge/⚡%2060%20Seconds-123_WPM-F5C518?colorA=2B2B2B?style=flat-square)
 
 
 
@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 -->
 
 
-Last Update: 2025-05-20
+Last Update: 2025-07-16
