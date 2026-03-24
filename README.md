@@ -1,7 +1,7 @@
 # Welcome to jonaskyml!
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=linux,kali,arch,windows,git,github,vim,vscode,obsidian,unity,discord,ableton,gmail,tailwind,cs,md,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,vim,latex,md,arch,windows,git,github,obsidian,discord,tailwind)](https://skillicons.dev)
 
 #### TryHackMe
 <img src="https://tryhackme-badges.s3.amazonaws.com/spskakymjon.png" alt="Your Image Badge" />
@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 -->
 
 
-Last Update: 2026-03-05
+Last Update: 2026-03-24
